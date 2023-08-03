@@ -1,6 +1,7 @@
 # SHADE
 
-[shade_visual_abstract.pdf](https://github.com/andreaunitn/SHADE/files/12248491/shade_visual_abstract.pdf)
+![shade_visual_abstract-1](https://github.com/andreaunitn/SHADE/assets/105369215/d109f523-c4a9-4fae-9ec8-6af249526972)
+
 
 This repository contains all the code and files used for the creation and evaluation of SHADE, a dataset born to be used in the field of Platform Provenance Analysis for forensics purposes and available to all researchers or interested people [here](https://mmlab.disi.unitn.it/resources/published-datasets).
  <br />
