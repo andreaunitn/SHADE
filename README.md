@@ -1,7 +1,7 @@
 # SHADE: Sharing Device Identification on Images
 
 <div align="center">
-  <img src="figs/shade_visual_abstract.pdf" alt="SHADE Dataset Overview" width="60%">
+  <img src="figs/shade.jpg" alt="SHADE Dataset Overview" width="60%">
 </div>
 
 <br>
